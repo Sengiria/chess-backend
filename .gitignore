@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Docker build artifacts
+*.tar
+*.log
+*.pid
+
+# PyInstaller
+dist/
+build/
+
+# Mac/Linux backup files
+*~
